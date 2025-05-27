@@ -1,4 +1,4 @@
-# Tasktwo
+# Task2
 
 Created a student management system. This has various functionalites, like edit the previous data and store them as file in our directory. 
 
