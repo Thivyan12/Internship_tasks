@@ -1,4 +1,4 @@
-# Taskone
+# Hide & Seek Game
 
 Created a game, which i have named it as hide_&_seek game. It refers to finding a number which a computer has generated. 
 
